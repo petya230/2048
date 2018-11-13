@@ -1,0 +1,7 @@
+c:\users\petya\source\repos\2048\2048\bin\Debug\2048.exe.config
+c:\users\petya\source\repos\2048\2048\bin\Debug\2048.exe
+c:\users\petya\source\repos\2048\2048\bin\Debug\2048.pdb
+c:\users\petya\source\repos\2048\2048\obj\Debug\2048.csprojAssemblyReference.cache
+c:\users\petya\source\repos\2048\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
+c:\users\petya\source\repos\2048\2048\obj\Debug\2048.exe
+c:\users\petya\source\repos\2048\2048\obj\Debug\2048.pdb
