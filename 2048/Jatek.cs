@@ -16,7 +16,7 @@ namespace _2048
             {
                 palya.Kiir();
                 palya.Mozgas();
-            } while (palya.NyertVagyVeszett());
+            } while (palya.NyertVagyVesztett());
         }
 
     }

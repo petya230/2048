@@ -363,7 +363,7 @@ namespace _2048
             Console.WriteLine("JÁTÉKVÉGE!!!! VESZTETTÉL!");
             return false;
         }
-        public bool NyertVagyVeszett()
+        public bool NyertVagyVesztett()
         {
             if (JatekVege())
             {
