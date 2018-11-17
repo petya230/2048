@@ -5,3 +5,10 @@ c:\users\petya\source\repos\2048\2048\obj\Debug\2048.csprojAssemblyReference.cac
 c:\users\petya\source\repos\2048\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
 c:\users\petya\source\repos\2048\2048\obj\Debug\2048.exe
 c:\users\petya\source\repos\2048\2048\obj\Debug\2048.pdb
+C:\Users\petya\Documents\GitHub\2048\2048\bin\Debug\2048.exe.config
+C:\Users\petya\Documents\GitHub\2048\2048\bin\Debug\2048.exe
+C:\Users\petya\Documents\GitHub\2048\2048\bin\Debug\2048.pdb
+C:\Users\petya\Documents\GitHub\2048\2048\obj\Debug\2048.csprojAssemblyReference.cache
+C:\Users\petya\Documents\GitHub\2048\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
+C:\Users\petya\Documents\GitHub\2048\2048\obj\Debug\2048.exe
+C:\Users\petya\Documents\GitHub\2048\2048\obj\Debug\2048.pdb

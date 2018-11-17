@@ -363,5 +363,24 @@ namespace _2048
             Console.WriteLine("JÁTÉKVÉGE!!!! VESZTETTÉL!");
             return false;
         }
+        public bool NyertVagyVeszett()
+        {
+            if (JatekVege())
+            {
+                for (int i = 0; i < palya.GetLength(0); i++)
+                {
+                    for (int j = 0; j < palya.GetLength(1); j++)
+                    {
+                        if (palya[i, j] == 2048)
+                        {
+                            Console.Clear();
+                            Console.WriteLine("JÁTÉKVÉGE!!!! \n\r Nyertél, gratuálok!");
+                            return false;
+                        }
+                    }
+                }
+            }
+            return true;
+        }
     }
 }
